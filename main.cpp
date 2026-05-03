@@ -10,3 +10,4 @@ void loop() {
   digitalWrite(2, LOW);
   delay(1000);
 }
+// Actualizado el 05/03/2026 12:41:48
